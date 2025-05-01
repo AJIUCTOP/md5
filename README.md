@@ -1,2 +1,2 @@
 # md5
-md5 implementation for storing password and checking it
+md5 implementation for storing password hash or checking it
